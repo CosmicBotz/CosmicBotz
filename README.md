@@ -20,8 +20,8 @@
 >
 > At CosmicBotz, we move beyond simple scripts. We build production-ready ecosystems designed to handle the high demands of anime and media communities. Every line of code is written with a "UX-First" mentality, ensuring that complex backend logic translates into a smooth, premium interface for the end user.
 
-> ● **Human-Centric Logic:** We design bots that feel intuitive and responsive, not robotic.\n
-> ● **High-Performance Scaling:** Our architecture is built to stay stable even during massive traffic spikes. \n
+> ● **Human-Centric Logic:** We design bots that feel intuitive and responsive, not robotic.<br/>
+> ● **High-Performance Scaling:** Our architecture is built to stay stable even during massive traffic spikes. <br/>
 > ● **Seamless Integration:** Every tool in our ecosystem is designed to talk to the others, creating a unified content pipeline.
 
 <br/>
@@ -56,7 +56,7 @@
 
 <br/>
 
-### 🐍 Contribution Flow
+### Contribution Flow
 <div align="center">
   <img src="https://raw.githubusercontent.com/CosmicBotz/CosmicBotz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
