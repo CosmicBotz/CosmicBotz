@@ -92,11 +92,13 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-
 <img src="https://count.getloli.com/get/@CosmicBotz?theme=rule29" alt="CosmicBotz Views" />
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+
+
 
 </div>
