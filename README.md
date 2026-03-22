@@ -4,10 +4,17 @@
 
 <br/>
 
-<img src="https://count.getloli.com/get/@CosmicBotz?theme=rule29" alt="CosmicBotz Views" />
 
-<br/><br/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=Premium+Telegram+Bot+Organization;Engineering+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
+</a>
+
+</div>
+
+---
+
+<br/>
 
 ## 🌌 Our Philosophy
 
@@ -27,9 +34,9 @@
 
 *We maintain a suite of specialized tools, each optimized for a specific part of the content pipeline.*
 
-* ** Auto Filter** — Intelligent content indexing and discovery.
-* ** Video Sequence** — Advanced media curation and quality selection.
-* ** Alisa Store** — The secure backbone for encrypted file distribution.
+> ** Auto Filter** — Intelligent content indexing and discovery.
+> ** Video Sequence** — Advanced media curation and quality selection.
+> ** Alisa Store** — The secure backbone for encrypted file distribution.
 
 <br/>
 
@@ -88,14 +95,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=Premium+Telegram+Bot+Organization;Engineering+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
-</a>
+<img src="https://count.getloli.com/get/@CosmicBotz?theme=rule29" alt="CosmicBotz Views" />
 
-</div>
-
----
-
-<br/>
+<br/><br/>
 
 </div>
