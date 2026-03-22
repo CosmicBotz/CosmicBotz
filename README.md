@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&pause=1400&color=A855F7&center=true&vCenter=true&width=600&lines=Premium+Telegram+Bot+Organisation;Building+Smart+Bots+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=Premium+Telegram+Bot+Organization;Engineering+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -18,70 +18,51 @@
 
 <br/>
 
-## 🌌 The Organization
+## 🌌 Our Philosophy
 
-> **CosmicBotz is a high-performance ecosystem, not just a collection of bots.**
+> **"We believe automation should feel invisible."**
 >
-> We specialize in engineering production-grade automation specifically for the anime and media sectors on Telegram. Our mission is to bridge the gap between complex backend logic and a seamless, "premium" user interface.
+> At CosmicBotz, we don't just write scripts; we build ecosystems. Our goal is to replace clunky, robotic interactions with smooth, "premium" experiences that feel like native apps. We focus on the anime and media niche, ensuring that community management and content delivery are handled with zero friction.
 
-* **Full Pipeline Integration:** We handle the entire lifecycle—from scraping and indexing to secure file storage and automated delivery.
-* **UX-First Mentality:** Every project is built to look and feel like a native application, moving away from standard, cluttered bot responses.
-
-<br/>
-
----
-
-## 🚀 Active Projects
-
-Our suite of interconnected bots works in harmony to manage massive media communities:
-
-### 💠 Auto Filter CosmicBotz
-> *The Flagship Discovery Engine*
-* ● Fully automated indexing system for massive anime libraries.
-* ● Generates timed invite links for secure channel entry.
-* ● Zero-admin overhead; completely self-sustaining search logic.
-
-### 💠 Video Sequence Bot
-> *The Content Curator*
-* ● Automatically organizes media by Series, Season, and Episode.
-* ● Deploys custom inline keyboards with quality selection (480p/720p/1080p).
-* ● Seamlessly links files back to our encrypted storage backbone.
-
-### 💠 Alisa File Store Bot
-> *The Distribution Hub*
-* ● The core storage engine for the entire organization.
-* ● Encodes share links to prevent unauthorized forwarding.
-* ● Optimized for high-traffic batch deliveries and secure file retrieval.
+* **User-Centric Design:** We prioritize how a human interacts with the bot over how easy the code was to write.
+* **Scalable Architecture:** Built to handle thousands of requests without breaking a sweat.
+* **Open Progress:** We believe in sharing our logic to push the Telegram developer community forward.
 
 <br/>
 
 ---
 
-## 📊 Developer Analytics
+## 🚀 The Ecosystem
+
+*We maintain a suite of specialized tools, each optimized for a specific part of the content pipeline.*
+
+* **💠 Auto Filter** — Intelligent content indexing and discovery.
+* **💠 Video Sequence** — Advanced media curation and quality selection.
+* **💠 Alisa Store** — The secure backbone for encrypted file distribution.
+
+<br/>
+
+---
+
+## 📊 Development Pulse
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicBotz&theme=dracula&hide_border=true&area=true" width="100%" alt="CosmicBotz Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicBotz&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicBotz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="CosmicBotz Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicBotz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=CosmicBotz&theme=tokyonight&hide_border=true" width="48%" alt="CosmicBotz Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CosmicBotz&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
 </div>
 
 <br/>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Flow
 <div align="center">
   <img src="https://raw.githubusercontent.com/CosmicBotz/CosmicBotz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicBotz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -92,17 +73,10 @@ Our suite of interconnected bots works in harmony to manage massive media commun
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-3b82f6?style=for-the-badge&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Platform-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Framework-Aiogram_3-7c3aed?style=for-the-badge)
-
-<br/>
-
-![Motor](https://img.shields.io/badge/Motor-22c55e?style=flat-square)
-![TMDB](https://img.shields.io/badge/TMDB_API-01d277?style=flat-square)
-![Pillow](https://img.shields.io/badge/Pillow-f59e0b?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
