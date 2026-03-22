@@ -30,9 +30,9 @@
 
 ## 🚀 The Ecosystem
 
-* ● **💠 Auto Filter** — High-speed intelligent content indexing.
-* ● **💠 Video Sequence** — Advanced media curation with quality selectors.
-* ● **💠 Alisa Store** — Secure, encrypted file distribution backbone.
+* ● ** Auto Filter** — High-speed intelligent content indexing.
+* ● ** Video Sequence** — Advanced media curation with quality selectors.
+* ● ** Alisa Store** — Secure, encrypted file distribution backbone.
 
 <br/>
 
