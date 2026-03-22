@@ -8,15 +8,6 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=Premium+Telegram+Bot+Organization;Engineering+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
-</a>
-
-</div>
-
----
-
-<br/>
 
 ## 🌌 Our Philosophy
 
@@ -24,9 +15,9 @@
 >
 > At CosmicBotz, we don't just write scripts; we build ecosystems. Our goal is to replace clunky, robotic interactions with smooth, "premium" experiences that feel like native apps. We focus on the anime and media niche, ensuring that community management and content delivery are handled with zero friction.
 
-* **User-Centric Design:** We prioritize how a human interacts with the bot over how easy the code was to write.
-* **Scalable Architecture:** Built to handle thousands of requests without breaking a sweat.
-* **Open Progress:** We believe in sharing our logic to push the Telegram developer community forward.
+> **User-Centric Design:** We prioritize how a human interacts with the bot over how easy the code was to write.
+> **Scalable Architecture:** Built to handle thousands of requests without breaking a sweat.
+> **Open Progress:** We believe in sharing our logic to push the Telegram developer community forward.
 
 <br/>
 
@@ -36,9 +27,9 @@
 
 *We maintain a suite of specialized tools, each optimized for a specific part of the content pipeline.*
 
-* **💠 Auto Filter** — Intelligent content indexing and discovery.
-* **💠 Video Sequence** — Advanced media curation and quality selection.
-* **💠 Alisa Store** — The secure backbone for encrypted file distribution.
+* ** Auto Filter** — Intelligent content indexing and discovery.
+* ** Video Sequence** — Advanced media curation and quality selection.
+* ** Alisa Store** — The secure backbone for encrypted file distribution.
 
 <br/>
 
@@ -60,7 +51,7 @@
 
 <br/>
 
-### 🐍 Contribution Flow
+### Contribution Flow
 <div align="center">
   <img src="https://raw.githubusercontent.com/CosmicBotz/CosmicBotz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
@@ -95,5 +86,16 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&pause=1500&color=A855F7&center=true&vCenter=true&width=800&lines=Premium+Telegram+Bot+Organization;Engineering+for+Anime+Communities;Automated+%C2%B7+Intelligent+%C2%B7+Open" alt="Typing SVG"/>
+</a>
+
+</div>
+
+---
+
+<br/>
 
 </div>
